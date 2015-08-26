@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+/.idea
+/chef-recipes.iml
+
+### Vim template
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
